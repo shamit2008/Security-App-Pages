@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/security-app-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/security-app-pages/static/js/main.9c0c8b41.chunk.js",
+    "main.js.map": "/security-app-pages/static/js/main.9c0c8b41.chunk.js.map",
+    "runtime-main.js": "/security-app-pages/static/js/runtime-main.f76d0f86.js",
+    "runtime-main.js.map": "/security-app-pages/static/js/runtime-main.f76d0f86.js.map",
+    "static/js/2.c5dce4a5.chunk.js": "/security-app-pages/static/js/2.c5dce4a5.chunk.js",
+    "static/js/2.c5dce4a5.chunk.js.map": "/security-app-pages/static/js/2.c5dce4a5.chunk.js.map",
+    "static/js/3.7dc6d336.chunk.js": "/security-app-pages/static/js/3.7dc6d336.chunk.js",
+    "static/js/3.7dc6d336.chunk.js.map": "/security-app-pages/static/js/3.7dc6d336.chunk.js.map",
+    "index.html": "/security-app-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/security-app-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c5dce4a5.chunk.js.LICENSE.txt": "/security-app-pages/static/js/2.c5dce4a5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/security-app-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f76d0f86.js",
+    "static/js/2.c5dce4a5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9c0c8b41.chunk.js"
+  ]
+}
